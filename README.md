@@ -5,7 +5,6 @@
 Card will take *any* credit card form and make it the best part of the checkout process (without you changing anything). Everything is created with pure CSS, HTML, and Javascript — no images required.
 
 ![card](http://i.imgur.com/qG3TenO.gif)
-[Weboptimizers form] (https://www.weboptimizers.com.au/)
 ## Usage (without jQuery)
 
 To use, you'll need to include the Card JavaScript files into your HTML, no CSS link is necessary as the JavaScript file does this for you. You can find the necessary file at `/dist/card.js` and include it in your HTML like so.
@@ -257,6 +256,7 @@ Card is used in the wild in these places:
 * [Robert Dyas](http://www.robertdyas.co.uk)
 * [ROKA](https://www.rokahub.com)
 * [LeSalon](https://lesalon.com)
+* [Weboptimizers](https://www.weboptimizers.com.au/)
 
 Are you using Card in production? If so, we'd love to link to you from this page. Open a PR or drop [@jessepollak](http://twitter.com/jessepollak) a line on [Twitter](http://twitter.com/jessepollak) and we'll add you right away!
 
